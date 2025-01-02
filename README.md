@@ -139,31 +139,28 @@ Here are some ideas to get you started:
 
 </p>
 
-<details>
-  <summary><h3 align="left">Languages and Tools</h3></summary>
+<h3 align="left">Github Stats:</h3>
+<p align="left">
+  <!-- Languages and Tools Section (same as before) -->
+</p>
 
-  <p align="left">
-    <!-- Languages and Tools Section (same as before) -->
-  </p>
+<!-- Top Languages Card -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshubajaj&show_icons=true&locale=en&layout=compact" alt="deepanshubajaj" />
+</p>
 
-  <!-- Top Languages Card -->
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshubajaj&show_icons=true&locale=en&layout=compact" alt="deepanshubajaj" />
-  </p>
+<!-- GitHub Stats Card -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshubajaj&show_icons=true&locale=en" alt="deepanshubajaj" /></p>
 
-  <!-- GitHub Stats Card -->
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshubajaj&show_icons=true&locale=en" alt="deepanshubajaj" /></p>
+<!-- Streak Stats -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshubajaj&" alt="deepanshubajaj" />
+</p>
 
-  <!-- Streak Stats -->
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshubajaj&" alt="deepanshubajaj" />
-  </p>
-
-  <!-- Contribution Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepanshubajaj&theme=react&hide_border=true" alt="Deepanshu's GitHub Activity Graph"/>
-  </p>
-</details>
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=deepanshubajaj&theme=react&hide_border=true" alt="Deepanshu's GitHub Activity Graph"/>
+</p>
 
 <!-- Animated GIF -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
